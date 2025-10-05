@@ -117,4 +117,4 @@ Contains loan-level data:
 ## 👨‍💻 Author
 **Muhammad Umar Amin**  
 🎓 Master’s Student, Computational & Quantitative Methods — Lamar University  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadumaramin) | [GitHub](https://github.com/Muhammadumaramin)
+🔗 [LinkedIn](https://www.linkedin.com/in/mumaramin-0a6795257/) | [GitHub](https://github.com/Muhammadumaramin)
