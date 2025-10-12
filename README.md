@@ -4,7 +4,7 @@
 This project explores a **bank’s loan portfolio dataset (2021)** using SQL to derive performance metrics, borrower insights, and lending trends.
 
 ---
-
+ 
 ## 🎯 Objectives
 - Calculate total loan applications, funded amounts, and payments received.
 - Track month-over-month (MoM) growth for key metrics.
