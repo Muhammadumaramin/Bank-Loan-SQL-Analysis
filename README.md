@@ -101,9 +101,10 @@ Borrowers with longer employment history show higher borrowing and repayment cap
 ---
 
 ## 📊 Tools
-- Microsoft SQL Server / MySQL
+- Microsoft SQL Server / MySQL 
 - Excel (dataset exploration)
 - Power BI (for upcoming visual dashboards)
+- Python
 
 ---
 
