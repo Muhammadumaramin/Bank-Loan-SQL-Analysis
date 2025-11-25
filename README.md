@@ -1,7 +1,7 @@
 # 🏦 Bank Loan SQL Data Analysis
 
 ## 📘 Project Overview
-This project explores a **bank’s loan portfolio dataset (2021)** using SQL to derive performance metrics, borrower insights, and lending trends.
+This project explores a **bank’s loan portfolio dataset (2021)** using SQL and Python to derive performance metrics, borrower insights, and lending trends.
 
 ---
  
